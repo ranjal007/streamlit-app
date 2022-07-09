@@ -1,0 +1,8 @@
+heroku
+sklearn
+streamlit
+numpy 
+pandas
+seaborn
+matplotlib
+PIL
